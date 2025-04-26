@@ -33,7 +33,7 @@ Thank you.
 ### Running the Game
 
 1. Download **CCP6224_TT5L_GroupBetelgeuse.zip** ZIP file.
-2. Extract the ZIP file in your preferred folder.
+2. Extract the ZIP file to your preferred folder.
 3. Open the project folder in your preferred IDE (e.g., IntelliJ IDEA, Eclipse, BlueJ etc.).
 4. Compile the Java files.
 5. Run the game with the following command:
